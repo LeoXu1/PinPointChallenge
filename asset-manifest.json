@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cityfinder/static/css/main.4b1a34c8.chunk.css",
+    "main.js": "/cityfinder/static/js/main.5a1601f1.chunk.js",
+    "main.js.map": "/cityfinder/static/js/main.5a1601f1.chunk.js.map",
+    "runtime-main.js": "/cityfinder/static/js/runtime-main.403ee907.js",
+    "runtime-main.js.map": "/cityfinder/static/js/runtime-main.403ee907.js.map",
+    "static/js/2.c639435b.chunk.js": "/cityfinder/static/js/2.c639435b.chunk.js",
+    "static/js/2.c639435b.chunk.js.map": "/cityfinder/static/js/2.c639435b.chunk.js.map",
+    "static/js/3.197e751d.chunk.js": "/cityfinder/static/js/3.197e751d.chunk.js",
+    "static/js/3.197e751d.chunk.js.map": "/cityfinder/static/js/3.197e751d.chunk.js.map",
+    "index.html": "/cityfinder/index.html",
+    "static/css/main.4b1a34c8.chunk.css.map": "/cityfinder/static/css/main.4b1a34c8.chunk.css.map",
+    "static/js/2.c639435b.chunk.js.LICENSE.txt": "/cityfinder/static/js/2.c639435b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.403ee907.js",
+    "static/js/2.c639435b.chunk.js",
+    "static/css/main.4b1a34c8.chunk.css",
+    "static/js/main.5a1601f1.chunk.js"
+  ]
+}
