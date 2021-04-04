@@ -306,15 +306,6 @@
     "LONGITUDE": -119.800359
   },
   {
-    "ID": 20114,
-    "STATE_CODE": "AZ",
-    "STATE_NAME": "Arizona",
-    "CITY": "Mesa",
-    "COUNTY": "Maricopa",
-    "LATITUDE": 33.43174,
-    "LONGITUDE": -111.846931
-  },
-  {
     "ID": 27586,
     "STATE_CODE": "CA",
     "STATE_NAME": "California",
@@ -477,13 +468,13 @@
     "LONGITUDE": -84.485423
   },
   {
-    "ID": 30348,
+    "ID": 27938,
     "STATE_CODE": "CA",
     "STATE_NAME": "California",
-    "CITY": "Stockton",
-    "COUNTY": "San Joaquin",
-    "LATITUDE": 37.958,
-    "LONGITUDE": -121.2876
+    "CITY": "Santa Maria",
+    "COUNTY": "Santa Barbara",
+    "LATITUDE": 34.954538,
+    "LONGITUDE": -120.43245
   },
   {
     "ID": 30016,
@@ -576,13 +567,13 @@
     "LONGITUDE": -78.896613
   },
   {
-    "ID": 5751,
+    "ID": 5642,
     "STATE_CODE": "CA",
     "STATE_NAME": "California",
-    "CITY": "Chula Vista",
-    "COUNTY": "San Diego",
-    "LATITUDE": 32.64,
-    "LONGITUDE": -117.0833
+    "CITY": "Chico",
+    "COUNTY": "Butte",
+    "LATITUDE": 39.756466,
+    "LONGITUDE": -121.851806
   },
   {
     "ID": 31564,
@@ -657,13 +648,13 @@
     "LONGITUDE": -80.2611
   },
   {
-    "ID": 11258,
+    "ID": 26341,
     "STATE_CODE": "CA",
     "STATE_NAME": "California",
-    "CITY": "Fremont",
-    "COUNTY": "Alameda",
-    "LATITUDE": 37.560493,
-    "LONGITUDE": -121.999935
+    "CITY": "Redding",
+    "COUNTY": "Shasta",
+    "LATITUDE": 40.560493,
+    "LONGITUDE": -122.411627
   },
   {
     "ID": 26637,
@@ -2115,24 +2106,6 @@
     "LONGITUDE": -73.16613
   },
   {
-    "ID": 2356,
-    "STATE_CODE": "VT",
-    "STATE_NAME": "Vermont",
-    "CITY": "Bennington",
-    "COUNTY": "Bennington",
-    "LATITUDE": 42.882658,
-    "LONGITUDE": -73.192321
-  },
-  {
-    "ID": 3433,
-    "STATE_CODE": "VT",
-    "STATE_NAME": "Vermont",
-    "CITY": "Brattleboro",
-    "COUNTY": "Windham",
-    "LATITUDE": 42.857353,
-    "LONGITUDE": -72.593322
-  },
-  {
     "ID": 18895,
     "STATE_CODE": "NH",
     "STATE_NAME": "New Hampshire",
@@ -2151,15 +2124,6 @@
     "LONGITUDE": -70.780412
   },
   {
-    "ID": 26952,
-    "STATE_CODE": "NH",
-    "STATE_NAME": "New Hampshire",
-    "CITY": "Rochester",
-    "COUNTY": "Strafford",
-    "LATITUDE": 43.268374,
-    "LONGITUDE": -70.976642
-  },
-  {
     "ID": 15851,
     "STATE_CODE": "NH",
     "STATE_NAME": "New Hampshire",
@@ -2167,15 +2131,6 @@
     "COUNTY": "Cheshire",
     "LATITUDE": 42.943127,
     "LONGITUDE": -72.28954
-  },
-  {
-    "ID": 5846,
-    "STATE_CODE": "NH",
-    "STATE_NAME": "New Hampshire",
-    "CITY": "Claremont",
-    "COUNTY": "Sullivan",
-    "LATITUDE": 43.367942,
-    "LONGITUDE": -72.342186
   },
   {
     "ID": 2431,
@@ -2275,5 +2230,1382 @@
     "COUNTY": "Oxford",
     "LATITUDE": 44.543446,
     "LONGITUDE": -70.564475
+  },
+  {
+    "ID": 12419,
+    "STATE_CODE": "MI",
+    "STATE_NAME": "Michigan",
+    "CITY": "Grand Rapids",
+    "COUNTY": "Kent",
+    "LATITUDE": 42.9704,
+    "LONGITUDE": -85.6738
+  },
+  {
+    "ID": 17125,
+    "STATE_CODE": "MI",
+    "STATE_NAME": "Michigan",
+    "CITY": "Lansing",
+    "COUNTY": "Ingham",
+    "LATITUDE": 42.7323,
+    "LONGITUDE": -84.556
+  },
+  {
+    "ID": 15722,
+    "STATE_CODE": "MI",
+    "STATE_NAME": "Michigan",
+    "CITY": "Kalamazoo",
+    "COUNTY": "Kalamazoo",
+    "LATITUDE": 42.273565,
+    "LONGITUDE": -85.545653
+  },
+  {
+    "ID": 10626,
+    "STATE_CODE": "MI",
+    "STATE_NAME": "Michigan",
+    "CITY": "Flint",
+    "COUNTY": "Genesee",
+    "LATITUDE": 43.0233,
+    "LONGITUDE": -83.6856
+  },
+  {
+    "ID": 31729,
+    "STATE_CODE": "MI",
+    "STATE_NAME": "Michigan",
+    "CITY": "Traverse City",
+    "COUNTY": "Grand Traverse",
+    "LATITUDE": 44.74365,
+    "LONGITUDE": -85.618869
+  },
+  {
+    "ID": 19230,
+    "STATE_CODE": "MI",
+    "STATE_NAME": "Michigan",
+    "CITY": "Marquette",
+    "COUNTY": "Marquette",
+    "LATITUDE": 46.53124,
+    "LONGITUDE": -87.389443
+  },
+  {
+    "ID": 28040,
+    "STATE_CODE": "MI",
+    "STATE_NAME": "Michigan",
+    "CITY": "Sault Ste. Marie",
+    "COUNTY": "Chippewa",
+    "LATITUDE": 46.4817,
+    "LONGITUDE": -84.3723
+  },
+  {
+    "ID": 12618,
+    "STATE_CODE": "WI",
+    "STATE_NAME": "Wisconsin",
+    "CITY": "Green Bay",
+    "COUNTY": "Brown",
+    "LATITUDE": 44.485313,
+    "LONGITUDE": -88.016868
+  },
+  {
+    "ID": 15966,
+    "STATE_CODE": "WI",
+    "STATE_NAME": "Wisconsin",
+    "CITY": "Kenosha",
+    "COUNTY": "Kenosha",
+    "LATITUDE": 42.605228,
+    "LONGITUDE": -87.829945
+  },
+  {
+    "ID": 23722,
+    "STATE_CODE": "WI",
+    "STATE_NAME": "Wisconsin",
+    "CITY": "Oshkosh",
+    "COUNTY": "Winnebago",
+    "LATITUDE": 44.021962,
+    "LONGITUDE": -88.543635
+  },
+  {
+    "ID": 9139,
+    "STATE_CODE": "WI",
+    "STATE_NAME": "Wisconsin",
+    "CITY": "Eau Claire",
+    "COUNTY": "Eau Claire",
+    "LATITUDE": 44.783972,
+    "LONGITUDE": -91.487686
+  },
+  {
+    "ID": 16466,
+    "STATE_CODE": "WI",
+    "STATE_NAME": "Wisconsin",
+    "CITY": "La Crosse",
+    "COUNTY": "La Crosse",
+    "LATITUDE": 43.798938,
+    "LONGITUDE": -91.217494
+  },
+  {
+    "ID": 33376,
+    "STATE_CODE": "WI",
+    "STATE_NAME": "Wisconsin",
+    "CITY": "Wausau",
+    "COUNTY": "Marathon",
+    "LATITUDE": 44.963433,
+    "LONGITUDE": -89.633955
+  },
+  {
+    "ID": 8581,
+    "STATE_CODE": "MN",
+    "STATE_NAME": "Minnesota",
+    "CITY": "Duluth",
+    "COUNTY": "St. Louis",
+    "LATITUDE": 47.094431,
+    "LONGITUDE": -91.846731
+  },
+  {
+    "ID": 26951,
+    "STATE_CODE": "MN",
+    "STATE_NAME": "Minnesota",
+    "CITY": "Rochester",
+    "COUNTY": "Olmsted",
+    "LATITUDE": 44.049572,
+    "LONGITUDE": -92.48962
+  },
+  {
+    "ID": 29892,
+    "STATE_CODE": "MN",
+    "STATE_NAME": "Minnesota",
+    "CITY": "St. Cloud",
+    "COUNTY": "Benton",
+    "LATITUDE": 45.552113,
+    "LONGITUDE": -94.128447
+  },
+  {
+    "ID": 2310,
+    "STATE_CODE": "MN",
+    "STATE_NAME": "Minnesota",
+    "CITY": "Bemidji",
+    "COUNTY": "Beltrami",
+    "LATITUDE": 47.488071,
+    "LONGITUDE": -94.848809
+  },
+  {
+    "ID": 21028,
+    "STATE_CODE": "MN",
+    "STATE_NAME": "Minnesota",
+    "CITY": "Moorhead",
+    "COUNTY": "Clay",
+    "LATITUDE": 46.867748,
+    "LONGITUDE": -96.757197
+  },
+  {
+    "ID": 34523,
+    "STATE_CODE": "MN",
+    "STATE_NAME": "Minnesota",
+    "CITY": "Willmar",
+    "COUNTY": "Kandiyohi",
+    "LATITUDE": 45.139264,
+    "LONGITUDE": -95.052315
+  },
+  {
+    "ID": 8049,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Des Moines",
+    "COUNTY": "Polk",
+    "LATITUDE": 41.6005,
+    "LONGITUDE": -93.6088
+  },
+  {
+    "ID": 5121,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Cedar Rapids",
+    "COUNTY": "Linn",
+    "LATITUDE": 41.9743,
+    "LONGITUDE": -91.655382
+  },
+  {
+    "ID": 28974,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Sioux City",
+    "COUNTY": "Woodbury",
+    "LATITUDE": 42.497223,
+    "LONGITUDE": -96.40292
+  },
+  {
+    "ID": 33287,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Waterloo",
+    "COUNTY": "Black Hawk",
+    "LATITUDE": 42.477784,
+    "LONGITUDE": -92.366099
+  },
+  {
+    "ID": 10874,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Fort Dodge",
+    "COUNTY": "Webster",
+    "LATITUDE": 42.508817,
+    "LONGITUDE": -94.180737
+  },
+  {
+    "ID": 7635,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Davenport",
+    "COUNTY": "Scott",
+    "LATITUDE": 41.5218,
+    "LONGITUDE": -90.5743
+  },
+  {
+    "ID": 6926,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Council Bluffs",
+    "COUNTY": "Pottawattamie",
+    "LATITUDE": 41.252954,
+    "LONGITUDE": -95.880992
+  },
+  {
+    "ID": 8546,
+    "STATE_CODE": "IA",
+    "STATE_NAME": "Iowa",
+    "CITY": "Dubuque",
+    "COUNTY": "Dubuque",
+    "LATITUDE": 42.514977,
+    "LONGITUDE": -90.681914
+  },
+  {
+    "ID": 10290,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Fargo",
+    "COUNTY": "Cass",
+    "LATITUDE": 46.900878,
+    "LONGITUDE": -96.793577
+  },
+  {
+    "ID": 12392,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Grand Forks",
+    "COUNTY": "Grand Forks",
+    "LATITUDE": 47.901041,
+    "LONGITUDE": -97.04463
+  },
+  {
+    "ID": 2731,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Bismarck",
+    "COUNTY": "Burleigh",
+    "LATITUDE": 46.823448,
+    "LONGITUDE": -100.774755
+  },
+  {
+    "ID": 15359,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Jamestown",
+    "COUNTY": "Stutsman",
+    "LATITUDE": 46.905899,
+    "LONGITUDE": -98.706127
+  },
+  {
+    "ID": 20639,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Minot",
+    "COUNTY": "Ward",
+    "LATITUDE": 48.22914,
+    "LONGITUDE": -101.298476
+  },
+  {
+    "ID": 34513,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Williston",
+    "COUNTY": "Williams",
+    "LATITUDE": 48.167924,
+    "LONGITUDE": -103.631699
+  },
+  {
+    "ID": 8160,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Dickinson",
+    "COUNTY": "Stark",
+    "LATITUDE": 46.887289,
+    "LONGITUDE": -102.787595
+  },
+  {
+    "ID": 32848,
+    "STATE_CODE": "ND",
+    "STATE_NAME": "North Dakota",
+    "CITY": "Wahpeton",
+    "COUNTY": "Richland",
+    "LATITUDE": 46.2651,
+    "LONGITUDE": -96.6133
+  },
+  {
+    "ID": 28976,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Sioux Falls",
+    "COUNTY": "Minnehaha",
+    "LATITUDE": 43.6017,
+    "LONGITUDE": -96.7051
+  },
+  {
+    "ID": 26173,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Rapid City",
+    "COUNTY": "Pennington",
+    "LATITUDE": 44.077041,
+    "LONGITUDE": -103.200259
+  },
+  {
+    "ID": 24793,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Pierre",
+    "COUNTY": "Hughes",
+    "LATITUDE": 44.369514,
+    "LONGITUDE": -100.321057
+  },
+  {
+    "ID": 21,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Aberdeen",
+    "COUNTY": "Brown",
+    "LATITUDE": 45.466109,
+    "LONGITUDE": -98.485642
+  },
+  {
+    "ID": 33305,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Watertown",
+    "COUNTY": "Codington",
+    "LATITUDE": 44.904295,
+    "LONGITUDE": -97.123977
+  },
+  {
+    "ID": 20689,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Mitchell",
+    "COUNTY": "Davison",
+    "LATITUDE": 43.710921,
+    "LONGITUDE": -98.027026
+  },
+  {
+    "ID": 3729,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Brookings",
+    "COUNTY": "Brookings",
+    "LATITUDE": 44.305619,
+    "LONGITUDE": -96.791408
+  },
+  {
+    "ID": 29641,
+    "STATE_CODE": "SD",
+    "STATE_NAME": "South Dakota",
+    "CITY": "Spearfish",
+    "COUNTY": "Lawrence",
+    "LATITUDE": 44.494625,
+    "LONGITUDE": -103.864962
+  },
+  {
+    "ID": 12397,
+    "STATE_CODE": "NE",
+    "STATE_NAME": "Nebraska",
+    "CITY": "Grand Island",
+    "COUNTY": "Hall",
+    "LATITUDE": 40.921858,
+    "LONGITUDE": -98.341062
+  },
+  {
+    "ID": 15827,
+    "STATE_CODE": "NE",
+    "STATE_NAME": "Nebraska",
+    "CITY": "Kearney",
+    "COUNTY": "Buffalo",
+    "LATITUDE": 40.7086,
+    "LONGITUDE": -99.1203
+  },
+  {
+    "ID": 22778,
+    "STATE_CODE": "NE",
+    "STATE_NAME": "Nebraska",
+    "CITY": "North Platte",
+    "COUNTY": "Lincoln",
+    "LATITUDE": 41.132595,
+    "LONGITUDE": -100.774631
+  },
+  {
+    "ID": 28218,
+    "STATE_CODE": "NE",
+    "STATE_NAME": "Nebraska",
+    "CITY": "Scottsbluff",
+    "COUNTY": "Scotts Bluff",
+    "LATITUDE": 41.871975,
+    "LONGITUDE": -103.661914
+  },
+  {
+    "ID": 13547,
+    "STATE_CODE": "NE",
+    "STATE_NAME": "Nebraska",
+    "CITY": "Hastings",
+    "COUNTY": "Adams",
+    "LATITUDE": 40.587654,
+    "LONGITUDE": -98.391146
+  },
+  {
+    "ID": 22528,
+    "STATE_CODE": "NE",
+    "STATE_NAME": "Nebraska",
+    "CITY": "Norfolk",
+    "COUNTY": "Madison",
+    "LATITUDE": 42.032914,
+    "LONGITUDE": -97.422898
+  },
+  {
+    "ID": 23805,
+    "STATE_CODE": "KS",
+    "STATE_NAME": "Kansas",
+    "CITY": "Overland Park",
+    "COUNTY": "Johnson",
+    "LATITUDE": 38.992488,
+    "LONGITUDE": -94.674769
+  },
+  {
+    "ID": 17275,
+    "STATE_CODE": "KS",
+    "STATE_NAME": "Kansas",
+    "CITY": "Lawrence",
+    "COUNTY": "Douglas",
+    "LATITUDE": 38.964402,
+    "LONGITUDE": -95.241789
+  },
+  {
+    "ID": 31623,
+    "STATE_CODE": "KS",
+    "STATE_NAME": "Kansas",
+    "CITY": "Topeka",
+    "COUNTY": "Shawnee",
+    "LATITUDE": 39.0541,
+    "LONGITUDE": -95.6719
+  },
+  {
+    "ID": 8264,
+    "STATE_CODE": "KS",
+    "STATE_NAME": "Kansas",
+    "CITY": "Dodge City",
+    "COUNTY": "Ford",
+    "LATITUDE": 37.756882,
+    "LONGITUDE": -100.024074
+  },
+  {
+    "ID": 11530,
+    "STATE_CODE": "KS",
+    "STATE_NAME": "Kansas",
+    "CITY": "Garden City",
+    "COUNTY": "Finney",
+    "LATITUDE": 37.97693,
+    "LONGITUDE": -100.862088
+  },
+  {
+    "ID": 18920,
+    "STATE_CODE": "KS",
+    "STATE_NAME": "Kansas",
+    "CITY": "Manhattan",
+    "COUNTY": "Riley",
+    "LATITUDE": 39.193757,
+    "LONGITUDE": -96.585776
+  },
+  {
+    "ID": 17680,
+    "STATE_CODE": "KS",
+    "STATE_NAME": "Kansas",
+    "CITY": "Liberal",
+    "COUNTY": "Seward",
+    "LATITUDE": 37.043789,
+    "LONGITUDE": -100.92857
+  },
+  {
+    "ID": 9784,
+    "STATE_CODE": "OK",
+    "STATE_NAME": "Oklahoma",
+    "CITY": "Enid",
+    "COUNTY": "Garfield",
+    "LATITUDE": 36.402842,
+    "LONGITUDE": -97.862257
+  },
+  {
+    "ID": 17300,
+    "STATE_CODE": "OK",
+    "STATE_NAME": "Oklahoma",
+    "CITY": "Lawton",
+    "COUNTY": "Comanche",
+    "LATITUDE": 34.591467,
+    "LONGITUDE": -98.369783
+  },
+  {
+    "ID": 30313,
+    "STATE_CODE": "OK",
+    "STATE_NAME": "Oklahoma",
+    "CITY": "Stillwater",
+    "COUNTY": "Payne",
+    "LATITUDE": 36.104349,
+    "LONGITUDE": -97.060868
+  },
+  {
+    "ID": 1778,
+    "STATE_CODE": "OK",
+    "STATE_NAME": "Oklahoma",
+    "CITY": "Bartlesville",
+    "COUNTY": "Washington",
+    "LATITUDE": 36.743956,
+    "LONGITUDE": -95.992091
+  },
+  {
+    "ID": 959,
+    "STATE_CODE": "OK",
+    "STATE_NAME": "Oklahoma",
+    "CITY": "Ardmore",
+    "COUNTY": "Carter",
+    "LATITUDE": 34.176681,
+    "LONGITUDE": -97.134157
+  },
+  {
+    "ID": 12985,
+    "STATE_CODE": "OK",
+    "STATE_NAME": "Oklahoma",
+    "CITY": "Guymon",
+    "COUNTY": "Texas",
+    "LATITUDE": 36.696052,
+    "LONGITUDE": -101.47778
+  },
+  {
+    "ID": 20296,
+    "STATE_CODE": "TX",
+    "STATE_NAME": "Texas",
+    "CITY": "Midland",
+    "COUNTY": "Midland",
+    "LATITUDE": 31.989636,
+    "LONGITUDE": -102.06261
+  },
+  {
+    "ID": 27746,
+    "STATE_CODE": "TX",
+    "STATE_NAME": "Texas",
+    "CITY": "San Angelo",
+    "COUNTY": "Tom Green",
+    "LATITUDE": 31.478165,
+    "LONGITUDE": -100.481752
+  },
+  {
+    "ID": 30,
+    "STATE_CODE": "TX",
+    "STATE_NAME": "Texas",
+    "CITY": "Abilene",
+    "COUNTY": "Taylor",
+    "LATITUDE": 32.468155,
+    "LONGITUDE": -99.718208
+  },
+  {
+    "ID": 615,
+    "STATE_CODE": "TX",
+    "STATE_NAME": "Texas",
+    "CITY": "Amarillo",
+    "COUNTY": "Potter",
+    "LATITUDE": 35.203238,
+    "LONGITUDE": -101.842052
+  },
+  {
+    "ID": 34360,
+    "STATE_CODE": "TX",
+    "STATE_NAME": "Texas",
+    "CITY": "Wichita Falls",
+    "COUNTY": "Wichita",
+    "LATITUDE": 33.905284,
+    "LONGITUDE": -98.497645
+  },
+  {
+    "ID": 32053,
+    "STATE_CODE": "TX",
+    "STATE_NAME": "Texas",
+    "CITY": "Tyler",
+    "COUNTY": "Smith",
+    "LATITUDE": 32.325366,
+    "LONGITUDE": -95.292179
+  },
+  {
+    "ID": 3836,
+    "STATE_CODE": "TX",
+    "STATE_NAME": "Texas",
+    "CITY": "Brownsville",
+    "COUNTY": "Cameron",
+    "LATITUDE": 25.933743,
+    "LONGITUDE": -97.517413
+  },
+  {
+    "ID": 2660,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Billings",
+    "COUNTY": "Yellowstone",
+    "LATITUDE": 45.774489,
+    "LONGITUDE": -108.500452
+  },
+  {
+    "ID": 13776,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Helena",
+    "COUNTY": "Lewis And Clark",
+    "LATITUDE": 46.613066,
+    "LONGITUDE": -112.021283
+  },
+  {
+    "ID": 3307,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Bozeman",
+    "COUNTY": "Gallatin",
+    "LATITUDE": 45.669269,
+    "LONGITUDE": -111.043057
+  },
+  {
+    "ID": 4220,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Butte",
+    "COUNTY": "Silver Bow",
+    "LATITUDE": 45.991579,
+    "LONGITUDE": -112.517807
+  },
+  {
+    "ID": 20680,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Missoula",
+    "COUNTY": "Missoula",
+    "LATITUDE": 46.856274,
+    "LONGITUDE": -114.025207
+  },
+  {
+    "ID": 12593,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Great Falls",
+    "COUNTY": "Cascade",
+    "LATITUDE": 47.509812,
+    "LONGITUDE": -111.273397
+  },
+  {
+    "ID": 15729,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Kalispell",
+    "COUNTY": "Flathead",
+    "LATITUDE": 48.220939,
+    "LONGITUDE": -114.289163
+  },
+  {
+    "ID": 13601,
+    "STATE_CODE": "MT",
+    "STATE_NAME": "Montana",
+    "CITY": "Havre",
+    "COUNTY": "Hill",
+    "LATITUDE": 48.556121,
+    "LONGITUDE": -109.687974
+  },
+  {
+    "ID": 4935,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Casper",
+    "COUNTY": "Natrona",
+    "LATITUDE": 42.845763,
+    "LONGITUDE": -106.316571
+  },
+  {
+    "ID": 11868,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Gillette",
+    "COUNTY": "Campbell",
+    "LATITUDE": 44.282009,
+    "LONGITUDE": -105.497442
+  },
+  {
+    "ID": 5625,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Cheyenne",
+    "COUNTY": "Laramie",
+    "LATITUDE": 41.143719,
+    "LONGITUDE": -104.796234
+  },
+  {
+    "ID": 17146,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Laramie",
+    "COUNTY": "Albany",
+    "LATITUDE": 41.312907,
+    "LONGITUDE": -105.581146
+  },
+  {
+    "ID": 6269,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Cody",
+    "COUNTY": "Park",
+    "LATITUDE": 44.523135,
+    "LONGITUDE": -109.075611
+  },
+  {
+    "ID": 15293,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Jackson",
+    "COUNTY": "Teton",
+    "LATITUDE": 43.460734,
+    "LONGITUDE": -110.766277
+  },
+  {
+    "ID": 26858,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Riverton",
+    "COUNTY": "Fremont",
+    "LATITUDE": 43.045786,
+    "LONGITUDE": -108.411335
+  },
+  {
+    "ID": 26993,
+    "STATE_CODE": "WY",
+    "STATE_NAME": "Wyoming",
+    "CITY": "Rock Springs",
+    "COUNTY": "Sweetwater",
+    "LATITUDE": 41.605957,
+    "LONGITUDE": -109.230047
+  },
+  {
+    "ID": 10863,
+    "STATE_CODE": "CO",
+    "STATE_NAME": "Colorado",
+    "CITY": "Fort Collins",
+    "COUNTY": "Larimer",
+    "LATITUDE": 40.581293,
+    "LONGITUDE": -105.103884
+  },
+  {
+    "ID": 25847,
+    "STATE_CODE": "CO",
+    "STATE_NAME": "Colorado",
+    "CITY": "Pueblo",
+    "COUNTY": "Pueblo",
+    "LATITUDE": 38.287876,
+    "LONGITUDE": -104.584828
+  },
+  {
+    "ID": 12402,
+    "STATE_CODE": "CO",
+    "STATE_NAME": "Colorado",
+    "CITY": "Grand Junction",
+    "COUNTY": "Mesa",
+    "LATITUDE": 39.078326,
+    "LONGITUDE": -108.545692
+  },
+  {
+    "ID": 30202,
+    "STATE_CODE": "CO",
+    "STATE_NAME": "Colorado",
+    "CITY": "Steamboat Springs",
+    "COUNTY": "Routt",
+    "LATITUDE": 40.485,
+    "LONGITUDE": -106.8311
+  },
+  {
+    "ID": 1198,
+    "STATE_CODE": "CO",
+    "STATE_NAME": "Colorado",
+    "CITY": "Aspen",
+    "COUNTY": "Pitkin",
+    "LATITUDE": 39.195139,
+    "LONGITUDE": -106.823593
+  },
+  {
+    "ID": 8679,
+    "STATE_CODE": "CO",
+    "STATE_NAME": "Colorado",
+    "CITY": "Durango",
+    "COUNTY": "La Plata",
+    "LATITUDE": 37.287388,
+    "LONGITUDE": -107.861684
+  },
+  {
+    "ID": 17169,
+    "STATE_CODE": "NM",
+    "STATE_NAME": "New Mexico",
+    "CITY": "Las Cruces",
+    "COUNTY": "Dona Ana",
+    "LATITUDE": 32.321641,
+    "LONGITUDE": -106.746034
+  },
+  {
+    "ID": 27323,
+    "STATE_CODE": "NM",
+    "STATE_NAME": "New Mexico",
+    "CITY": "Roswell",
+    "COUNTY": "Chaves",
+    "LATITUDE": 33.388504,
+    "LONGITUDE": -104.525857
+  },
+  {
+    "ID": 10327,
+    "STATE_CODE": "NM",
+    "STATE_NAME": "New Mexico",
+    "CITY": "Farmington",
+    "COUNTY": "San Juan",
+    "LATITUDE": 36.706514,
+    "LONGITUDE": -108.199531
+  },
+  {
+    "ID": 27933,
+    "STATE_CODE": "NM",
+    "STATE_NAME": "New Mexico",
+    "CITY": "Santa Fe",
+    "COUNTY": "Santa Fe",
+    "LATITUDE": 35.702472,
+    "LONGITUDE": -105.974818
+  },
+  {
+    "ID": 248,
+    "STATE_CODE": "NM",
+    "STATE_NAME": "New Mexico",
+    "CITY": "Alamogordo",
+    "COUNTY": "Otero",
+    "LATITUDE": 32.893186,
+    "LONGITUDE": -105.948544
+  },
+  {
+    "ID": 11482,
+    "STATE_CODE": "NM",
+    "STATE_NAME": "New Mexico",
+    "CITY": "Gallup",
+    "COUNTY": "McKinley",
+    "LATITUDE": 35.506475,
+    "LONGITUDE": -108.741352
+  },
+  {
+    "ID": 6176,
+    "STATE_CODE": "NM",
+    "STATE_NAME": "New Mexico",
+    "CITY": "Clovis",
+    "COUNTY": "Curry",
+    "LATITUDE": 34.412585,
+    "LONGITUDE": -103.221391
+  },
+  {
+    "ID": 14931,
+    "STATE_CODE": "ID",
+    "STATE_NAME": "Idaho",
+    "CITY": "Idaho Falls",
+    "COUNTY": "Bonneville",
+    "LATITUDE": 43.517679,
+    "LONGITUDE": -111.990626
+  },
+  {
+    "ID": 26524,
+    "STATE_CODE": "ID",
+    "STATE_NAME": "Idaho",
+    "CITY": "Rexburg",
+    "COUNTY": "Madison",
+    "LATITUDE": 43.809968,
+    "LONGITUDE": -111.789022
+  },
+  {
+    "ID": 25239,
+    "STATE_CODE": "ID",
+    "STATE_NAME": "Idaho",
+    "CITY": "Pocatello",
+    "COUNTY": "Bannock",
+    "LATITUDE": 42.887592,
+    "LONGITUDE": -112.438142
+  },
+  {
+    "ID": 32020,
+    "STATE_CODE": "ID",
+    "STATE_NAME": "Idaho",
+    "CITY": "Twin Falls",
+    "COUNTY": "Twin Falls",
+    "LATITUDE": 42.556495,
+    "LONGITUDE": -114.469265
+  },
+  {
+    "ID": 6273,
+    "STATE_CODE": "ID",
+    "STATE_NAME": "Idaho",
+    "CITY": "Coeur d'Alene",
+    "COUNTY": "Kootenai",
+    "LATITUDE": 47.7041,
+    "LONGITUDE": -116.7935
+  },
+  {
+    "ID": 21185,
+    "STATE_CODE": "ID",
+    "STATE_NAME": "Idaho",
+    "CITY": "Moscow",
+    "COUNTY": "Latah",
+    "LATITUDE": 46.730921,
+    "LONGITUDE": -116.989683
+  },
+  {
+    "ID": 21643,
+    "STATE_CODE": "ID",
+    "STATE_NAME": "Idaho",
+    "CITY": "Nampa",
+    "COUNTY": "Canyon",
+    "LATITUDE": 43.58342,
+    "LONGITUDE": -116.584818
+  },
+  {
+    "ID": 27706,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "Salt Lake City",
+    "COUNTY": "Salt Lake",
+    "LATITUDE": 40.755851,
+    "LONGITUDE": -111.896657
+  },
+  {
+    "ID": 25832,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "Provo",
+    "COUNTY": "Utah",
+    "LATITUDE": 40.231949,
+    "LONGITUDE": -111.675504
+  },
+  {
+    "ID": 18103,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "Logan",
+    "COUNTY": "Cache",
+    "LATITUDE": 41.747025,
+    "LONGITUDE": -111.822613
+  },
+  {
+    "ID": 23268,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "Ogden",
+    "COUNTY": "Weber",
+    "LATITUDE": 41.2443,
+    "LONGITUDE": -112.0072
+  },
+  {
+    "ID": 25731,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "Price",
+    "COUNTY": "Carbon",
+    "LATITUDE": 39.602013,
+    "LONGITUDE": -110.808117
+  },
+  {
+    "ID": 20702,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "Moab",
+    "COUNTY": "Grand",
+    "LATITUDE": 38.567674,
+    "LONGITUDE": -109.527087
+  },
+  {
+    "ID": 5087,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "Cedar City",
+    "COUNTY": "Iron",
+    "LATITUDE": 37.689544,
+    "LONGITUDE": -113.074513
+  },
+  {
+    "ID": 29918,
+    "STATE_CODE": "UT",
+    "STATE_NAME": "Utah",
+    "CITY": "St. George",
+    "COUNTY": "Washington",
+    "LATITUDE": 37.106651,
+    "LONGITUDE": -113.595261
+  },
+  {
+    "ID": 35280,
+    "STATE_CODE": "AZ",
+    "STATE_NAME": "Arizona",
+    "CITY": "Yuma",
+    "COUNTY": "Yuma",
+    "LATITUDE": 32.701507,
+    "LONGITUDE": -114.642362
+  },
+  {
+    "ID": 10582,
+    "STATE_CODE": "AZ",
+    "STATE_NAME": "Arizona",
+    "CITY": "Flagstaff",
+    "COUNTY": "Coconino",
+    "LATITUDE": 35.185911,
+    "LONGITUDE": -111.661979
+  },
+  {
+    "ID": 25692,
+    "STATE_CODE": "AZ",
+    "STATE_NAME": "Arizona",
+    "CITY": "Prescott",
+    "COUNTY": "Yavapai",
+    "LATITUDE": 34.629909,
+    "LONGITUDE": -113.022459
+  },
+  {
+    "ID": 16769,
+    "STATE_CODE": "AZ",
+    "STATE_NAME": "Arizona",
+    "CITY": "Lake Havasu City",
+    "COUNTY": "Mohave",
+    "LATITUDE": 34.492879,
+    "LONGITUDE": -114.308083
+  },
+  {
+    "ID": 4040,
+    "STATE_CODE": "AZ",
+    "STATE_NAME": "Arizona",
+    "CITY": "Bullhead City",
+    "COUNTY": "Mohave",
+    "LATITUDE": 35.1678,
+    "LONGITUDE": -114.543
+  },
+  {
+    "ID": 28853,
+    "STATE_CODE": "AZ",
+    "STATE_NAME": "Arizona",
+    "CITY": "Sierra Vista",
+    "COUNTY": "Cochise",
+    "LATITUDE": 31.536467,
+    "LONGITUDE": -110.266565
+  },
+  {
+    "ID": 23452,
+    "STATE_CODE": "WA",
+    "STATE_NAME": "Washington",
+    "CITY": "Olympia",
+    "COUNTY": "Thurston",
+    "LATITUDE": 47.012906,
+    "LONGITUDE": -122.876311
+  },
+  {
+    "ID": 2236,
+    "STATE_CODE": "WA",
+    "STATE_NAME": "Washington",
+    "CITY": "Bellingham",
+    "COUNTY": "Whatcom",
+    "LATITUDE": 48.748957,
+    "LONGITUDE": -122.488676
+  },
+  {
+    "ID": 35144,
+    "STATE_CODE": "WA",
+    "STATE_NAME": "Washington",
+    "CITY": "Yakima",
+    "COUNTY": "Yakima",
+    "LATITUDE": 46.606991,
+    "LONGITUDE": -120.477336
+  },
+  {
+    "ID": 26614,
+    "STATE_CODE": "WA",
+    "STATE_NAME": "Washington",
+    "CITY": "Richland",
+    "COUNTY": "Benton",
+    "LATITUDE": 46.283265,
+    "LONGITUDE": -119.289201
+  },
+  {
+    "ID": 32440,
+    "STATE_CODE": "WA",
+    "STATE_NAME": "Washington",
+    "CITY": "Vancouver",
+    "COUNTY": "Clark",
+    "LATITUDE": 45.64183,
+    "LONGITUDE": -122.68014
+  },
+  {
+    "ID": 25869,
+    "STATE_CODE": "WA",
+    "STATE_NAME": "Washington",
+    "CITY": "Pullman",
+    "COUNTY": "Whitman",
+    "LATITUDE": 46.735247,
+    "LONGITUDE": -117.172936
+  },
+  {
+    "ID": 27652,
+    "STATE_CODE": "OR",
+    "STATE_NAME": "Oregon",
+    "CITY": "Salem",
+    "COUNTY": "Marion",
+    "LATITUDE": 44.926039,
+    "LONGITUDE": -122.979692
+  },
+  {
+    "ID": 9965,
+    "STATE_CODE": "OR",
+    "STATE_NAME": "Oregon",
+    "CITY": "Eugene",
+    "COUNTY": "Lane",
+    "LATITUDE": 44.073677,
+    "LONGITUDE": -123.078757
+  },
+  {
+    "ID": 2325,
+    "STATE_CODE": "OR",
+    "STATE_NAME": "Oregon",
+    "CITY": "Bend",
+    "COUNTY": "Deschutes",
+    "LATITUDE": 44.092788,
+    "LONGITUDE": -121.293632
+  },
+  {
+    "ID": 19887,
+    "STATE_CODE": "OR",
+    "STATE_NAME": "Oregon",
+    "CITY": "Medford",
+    "COUNTY": "Jackson",
+    "LATITUDE": 42.319293,
+    "LONGITUDE": -122.887011
+  },
+  {
+    "ID": 27245,
+    "STATE_CODE": "OR",
+    "STATE_NAME": "Oregon",
+    "CITY": "Roseburg",
+    "COUNTY": "Douglas",
+    "LATITUDE": 43.222726,
+    "LONGITUDE": -123.366437
+  },
+  {
+    "ID": 6703,
+    "STATE_CODE": "OR",
+    "STATE_NAME": "Oregon",
+    "CITY": "Coos Bay",
+    "COUNTY": "Coos",
+    "LATITUDE": 43.362812,
+    "LONGITUDE": -124.233101
+  },
+  {
+    "ID": 16482,
+    "STATE_CODE": "OR",
+    "STATE_NAME": "Oregon",
+    "CITY": "La Grande",
+    "COUNTY": "Union",
+    "LATITUDE": 45.330435,
+    "LONGITUDE": -118.085228
+  },
+  {
+    "ID": 4854,
+    "STATE_CODE": "NV",
+    "STATE_NAME": "Nevada",
+    "CITY": "Carson City",
+    "COUNTY": "Carson City",
+    "LATITUDE": 39.150746,
+    "LONGITUDE": -119.745904
+  },
+  {
+    "ID": 23929,
+    "STATE_CODE": "NV",
+    "STATE_NAME": "Nevada",
+    "CITY": "Pahrump",
+    "COUNTY": "Nye",
+    "LATITUDE": 36.204039,
+    "LONGITUDE": -116.014661
+  },
+  {
+    "ID": 10451,
+    "STATE_CODE": "NV",
+    "STATE_NAME": "Nevada",
+    "CITY": "Fernley",
+    "COUNTY": "Lyon",
+    "LATITUDE": 39.601888,
+    "LONGITUDE": -119.235044
+  },
+  {
+    "ID": 13826,
+    "STATE_CODE": "NV",
+    "STATE_NAME": "Nevada",
+    "CITY": "Henderson",
+    "COUNTY": "Clark",
+    "LATITUDE": 35.992678,
+    "LONGITUDE": -114.951684
+  },
+  {
+    "ID": 9511,
+    "STATE_CODE": "NV",
+    "STATE_NAME": "Nevada",
+    "CITY": "Elko",
+    "COUNTY": "Elko",
+    "LATITUDE": 40.826247,
+    "LONGITUDE": -115.724679
+  },
+  {
+    "ID": 29619,
+    "STATE_CODE": "NV",
+    "STATE_NAME": "Nevada",
+    "CITY": "Sparks",
+    "COUNTY": "Washoe",
+    "LATITUDE": 39.547254,
+    "LONGITUDE": -119.755588
+  },
+  {
+    "ID": 10105,
+    "STATE_CODE": "AK",
+    "STATE_NAME": "Alaska",
+    "CITY": "Fairbanks",
+    "COUNTY": "Fairbanks North Star",
+    "LATITUDE": 64.840238,
+    "LONGITUDE": -147.710431
+  },
+  {
+    "ID": 15679,
+    "STATE_CODE": "AK",
+    "STATE_NAME": "Alaska",
+    "CITY": "Juneau",
+    "COUNTY": "Juneau",
+    "LATITUDE": 58.362767,
+    "LONGITUDE": -134.529429
+  },
+  {
+    "ID": 16037,
+    "STATE_CODE": "AK",
+    "STATE_NAME": "Alaska",
+    "CITY": "Ketchikan",
+    "COUNTY": "Ketchikan Gateway",
+    "LATITUDE": 55.372028,
+    "LONGITUDE": -131.683175
+  },
+  {
+    "ID": 28989,
+    "STATE_CODE": "AK",
+    "STATE_NAME": "Alaska",
+    "CITY": "Sitka",
+    "COUNTY": "Sitka",
+    "LATITUDE": 57.051436,
+    "LONGITUDE": -135.316569
+  },
+  {
+    "ID": 32301,
+    "STATE_CODE": "AK",
+    "STATE_NAME": "Alaska",
+    "CITY": "Utqiagvik",
+    "COUNTY": "North Slope",
+    "LATITUDE": 71.2728,
+    "LONGITUDE": -156.7575
+  },
+  {
+    "ID": 16363,
+    "STATE_CODE": "AK",
+    "STATE_NAME": "Alaska",
+    "CITY": "Kodiak",
+    "COUNTY": "Kodiak Island",
+    "LATITUDE": 57.781967,
+    "LONGITUDE": -152.500169
+  },
+  {
+    "ID": 22500,
+    "STATE_CODE": "AK",
+    "STATE_NAME": "Alaska",
+    "CITY": "Nome",
+    "COUNTY": "Nome",
+    "LATITUDE": 64.505775,
+    "LONGITUDE": -165.310667
+  },
+  {
+    "ID": 14171,
+    "STATE_CODE": "HI",
+    "STATE_NAME": "Hawaii",
+    "CITY": "Hilo",
+    "COUNTY": "Hawaii",
+    "LATITUDE": 19.702522,
+    "LONGITUDE": -155.093921
+  },
+  {
+    "ID": 15709,
+    "STATE_CODE": "HI",
+    "STATE_NAME": "Hawaii",
+    "CITY": "Kahului",
+    "COUNTY": "Maui",
+    "LATITUDE": 20.881388,
+    "LONGITUDE": -156.478327
+  },
+  {
+    "ID": 15770,
+    "STATE_CODE": "HI",
+    "STATE_NAME": "Hawaii",
+    "CITY": "Kapa'a",
+    "COUNTY": "Kauai",
+    "LATITUDE": 22.086798,
+    "LONGITUDE": -159.344842
+  },
+  {
+    "ID": 30348,
+    "STATE_CODE": "CA",
+    "STATE_NAME": "California",
+    "CITY": "Stockton",
+    "COUNTY": "San Joaquin",
+    "LATITUDE": 37.958,
+    "LONGITUDE": -121.2876
+  },
+  {
+    "ID": 5751,
+    "STATE_CODE": "CA",
+    "STATE_NAME": "California",
+    "CITY": "Chula Vista",
+    "COUNTY": "San Diego",
+    "LATITUDE": 32.64,
+    "LONGITUDE": -117.0833
+  },
+  {
+    "ID": 27672,
+    "STATE_CODE": "CA",
+    "STATE_NAME": "California",
+    "CITY": "Salinas",
+    "COUNTY": "Monterey",
+    "LATITUDE": 36.667693,
+    "LONGITUDE": -121.659589
+  },
+  {
+    "ID": 29430,
+    "STATE_CODE": "CA",
+    "STATE_NAME": "California",
+    "CITY": "South Lake Tahoe",
+    "COUNTY": "El Dorado",
+    "LATITUDE": 38.916976,
+    "LONGITUDE": -119.986469
+  },
+  {
+    "ID": 27757,
+    "STATE_CODE": "CA",
+    "STATE_NAME": "California",
+    "CITY": "San Bernardino",
+    "COUNTY": "San Bernardino",
+    "LATITUDE": 34.110521,
+    "LONGITUDE": -117.289753
   }
 ]
