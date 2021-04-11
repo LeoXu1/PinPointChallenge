@@ -11,7 +11,10 @@ import {
 const geoUrl =
   "https://raw.githubusercontent.com/LeoXu1/counties-with-states-topojson/main/statesTopoJson.json";
 
-const MapChart = ({ setTooltipContent, guessLoc, curCityLoc, showCity, city, setGuessLoc }) => {
+const MapChart = ({ mode, setTooltipContent, guessLoc, curCityLoc, showCity, city, setGuessLoc }) => {
+  const geoUrl =
+    "https://raw.githubusercontent.com/LeoXu1/counties-with-states-topojson/main/"+mode+"TopoJson.json";
+
   const handleClick = (projection) => (evt) => {
     const svg = evt.target.closest("svg");
 
