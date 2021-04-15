@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cityfinder/static/css/main.4b1a34c8.chunk.css",
-    "main.js": "/cityfinder/static/js/main.930eb6d9.chunk.js",
-    "main.js.map": "/cityfinder/static/js/main.930eb6d9.chunk.js.map",
-    "runtime-main.js": "/cityfinder/static/js/runtime-main.9cff2ee9.js",
-    "runtime-main.js.map": "/cityfinder/static/js/runtime-main.9cff2ee9.js.map",
-    "static/js/2.b43c767b.chunk.js": "/cityfinder/static/js/2.b43c767b.chunk.js",
-    "static/js/2.b43c767b.chunk.js.map": "/cityfinder/static/js/2.b43c767b.chunk.js.map",
-    "static/js/3.0c695460.chunk.js": "/cityfinder/static/js/3.0c695460.chunk.js",
-    "static/js/3.0c695460.chunk.js.map": "/cityfinder/static/js/3.0c695460.chunk.js.map",
+    "main.css": "/cityfinder/static/css/main.3052b365.chunk.css",
+    "main.js": "/cityfinder/static/js/main.5f615222.chunk.js",
+    "main.js.map": "/cityfinder/static/js/main.5f615222.chunk.js.map",
+    "runtime-main.js": "/cityfinder/static/js/runtime-main.a7772251.js",
+    "runtime-main.js.map": "/cityfinder/static/js/runtime-main.a7772251.js.map",
+    "static/js/2.9c842267.chunk.js": "/cityfinder/static/js/2.9c842267.chunk.js",
+    "static/js/2.9c842267.chunk.js.map": "/cityfinder/static/js/2.9c842267.chunk.js.map",
+    "static/js/3.e35671cf.chunk.js": "/cityfinder/static/js/3.e35671cf.chunk.js",
+    "static/js/3.e35671cf.chunk.js.map": "/cityfinder/static/js/3.e35671cf.chunk.js.map",
     "index.html": "/cityfinder/index.html",
-    "static/css/main.4b1a34c8.chunk.css.map": "/cityfinder/static/css/main.4b1a34c8.chunk.css.map",
-    "static/js/2.b43c767b.chunk.js.LICENSE.txt": "/cityfinder/static/js/2.b43c767b.chunk.js.LICENSE.txt"
+    "static/css/main.3052b365.chunk.css.map": "/cityfinder/static/css/main.3052b365.chunk.css.map",
+    "static/js/2.9c842267.chunk.js.LICENSE.txt": "/cityfinder/static/js/2.9c842267.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cff2ee9.js",
-    "static/js/2.b43c767b.chunk.js",
-    "static/css/main.4b1a34c8.chunk.css",
-    "static/js/main.930eb6d9.chunk.js"
+    "static/js/runtime-main.a7772251.js",
+    "static/js/2.9c842267.chunk.js",
+    "static/css/main.3052b365.chunk.css",
+    "static/js/main.5f615222.chunk.js"
   ]
 }
