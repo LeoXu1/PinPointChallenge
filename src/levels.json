@@ -1,0 +1,47 @@
+[
+  {
+    "number": 1,
+    "scoreNeeded": 10,
+    "description": "Good Luck!",
+    "threshold": 100,
+    "bonusThreshold": 50,
+    "bonusAllowed": true,
+    "map": "states"
+  },
+  {
+    "number": 2,
+    "scoreNeeded": 20,
+    "description": "Need to be a little closer now.",
+    "threshold": 75,
+    "bonusThreshold": 38,
+    "bonusAllowed": true,
+    "map": "states"
+  },
+  {
+    "number": 3,
+    "scoreNeeded": 30,
+    "description": "How close can you go?",
+    "threshold": 50,
+    "bonusThreshold": 25,
+    "bonusAllowed": true,
+    "map": "states"
+  },
+  {
+    "number": 4,
+    "scoreNeeded": 40,
+    "description": "No more bonus lives!",
+    "threshold": 50,
+    "bonusThreshold": 0,
+    "bonusAllowed": false,
+    "map": "states"
+  },
+  {
+    "number": 5,
+    "scoreNeeded": 50,
+    "description": "No more state borders!",
+    "threshold": 100,
+    "bonusThreshold": 0,
+    "bonusAllowed": false,
+    "map": "nation"
+  }
+]
