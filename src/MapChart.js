@@ -9,7 +9,7 @@ import {
 
 
 const geoUrl =
-  "https://raw.githubusercontent.com/LeoXu1/counties-with-states-topojson/main/statesTopoJson.json";
+  "https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json";
 
 const MapChart = ({ mode, setTooltipContent, guessLoc, curCityLoc, showCity, city, setGuessLoc }) => {
   const geoUrl =

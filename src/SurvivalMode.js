@@ -80,6 +80,9 @@ export default class SurvivalMode extends React.Component {
 
   submit() {
     let dist = Math.round(this.calcDistance(this.state.guessLoc, this.state.curCityLoc))
+    if (this.state.curCityName.endsWith("AK")) {
+      dist = Math.round(dist * 0.35)
+    }
     if (dist < this.state.level.bonusThreshold) {
       let roundInfo = {
         num: this.state.curCityNum,

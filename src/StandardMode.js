@@ -77,6 +77,9 @@ export default class StandardMode extends React.Component {
 
   submit() {
     let dist = Math.round(this.calcDistance(this.state.guessLoc, this.state.curCityLoc))
+    if (this.state.curCityName.endsWith("AK")) {
+      dist = Math.round(dist * 0.35)
+    }
     let roundInfo = {
       num: this.state.curCityNum,
       city: this.state.curCityName,
@@ -92,7 +95,6 @@ export default class StandardMode extends React.Component {
       score: this.state.score + dist,
       rounds: newRounds
     })
-
   }
 
   nextRound() {
