@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cityfinder/static/css/main.4fb55a72.chunk.css",
-    "main.js": "/cityfinder/static/js/main.00fcef9f.chunk.js",
-    "main.js.map": "/cityfinder/static/js/main.00fcef9f.chunk.js.map",
+    "main.css": "/cityfinder/static/css/main.799ea795.chunk.css",
+    "main.js": "/cityfinder/static/js/main.5fa86d87.chunk.js",
+    "main.js.map": "/cityfinder/static/js/main.5fa86d87.chunk.js.map",
     "runtime-main.js": "/cityfinder/static/js/runtime-main.a7772251.js",
     "runtime-main.js.map": "/cityfinder/static/js/runtime-main.a7772251.js.map",
-    "static/js/2.9c842267.chunk.js": "/cityfinder/static/js/2.9c842267.chunk.js",
-    "static/js/2.9c842267.chunk.js.map": "/cityfinder/static/js/2.9c842267.chunk.js.map",
+    "static/js/2.634f29fd.chunk.js": "/cityfinder/static/js/2.634f29fd.chunk.js",
+    "static/js/2.634f29fd.chunk.js.map": "/cityfinder/static/js/2.634f29fd.chunk.js.map",
     "static/js/3.e35671cf.chunk.js": "/cityfinder/static/js/3.e35671cf.chunk.js",
     "static/js/3.e35671cf.chunk.js.map": "/cityfinder/static/js/3.e35671cf.chunk.js.map",
     "index.html": "/cityfinder/index.html",
-    "static/css/main.4fb55a72.chunk.css.map": "/cityfinder/static/css/main.4fb55a72.chunk.css.map",
-    "static/js/2.9c842267.chunk.js.LICENSE.txt": "/cityfinder/static/js/2.9c842267.chunk.js.LICENSE.txt"
+    "static/css/main.799ea795.chunk.css.map": "/cityfinder/static/css/main.799ea795.chunk.css.map",
+    "static/js/2.634f29fd.chunk.js.LICENSE.txt": "/cityfinder/static/js/2.634f29fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a7772251.js",
-    "static/js/2.9c842267.chunk.js",
-    "static/css/main.4fb55a72.chunk.css",
-    "static/js/main.00fcef9f.chunk.js"
+    "static/js/2.634f29fd.chunk.js",
+    "static/css/main.799ea795.chunk.css",
+    "static/js/main.5fa86d87.chunk.js"
   ]
 }
