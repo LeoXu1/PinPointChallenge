@@ -1,15 +1,10 @@
 import React, { memo } from "react";
 import {
-  ZoomableGroup,
   ComposableMap,
   Geographies,
   Geography,
   Marker
 } from "react-simple-maps";
-
-
-const geoUrl =
-  "https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json";
 
 const MapChart = ({ mode, setTooltipContent, guessLoc, curCityLoc, showCity, city, setGuessLoc }) => {
   const geoUrl =

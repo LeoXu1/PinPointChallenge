@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from "react";
-import ReactDOM from "react-dom";
+import React from "react";
 import ReactTooltip from "react-tooltip";
 import { Link } from "react-router-dom";
 
@@ -148,7 +147,8 @@ export default class SurvivalMode extends React.Component {
     if (this.state.lives === 0) {
       this.setState({
         curCityName: "Game over. Final score: "+this.state.score,
-        gameOver: true
+        gameOver: true,
+        level: levels[0]
       })
     }
     else {
