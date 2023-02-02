@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cityfinder/static/css/main.5832810e.chunk.css",
-    "main.js": "/cityfinder/static/js/main.a542f4b2.chunk.js",
-    "main.js.map": "/cityfinder/static/js/main.a542f4b2.chunk.js.map",
-    "runtime-main.js": "/cityfinder/static/js/runtime-main.82a935f9.js",
-    "runtime-main.js.map": "/cityfinder/static/js/runtime-main.82a935f9.js.map",
-    "static/js/2.61fde5a1.chunk.js": "/cityfinder/static/js/2.61fde5a1.chunk.js",
-    "static/js/2.61fde5a1.chunk.js.map": "/cityfinder/static/js/2.61fde5a1.chunk.js.map",
-    "static/js/3.50f6f5eb.chunk.js": "/cityfinder/static/js/3.50f6f5eb.chunk.js",
-    "static/js/3.50f6f5eb.chunk.js.map": "/cityfinder/static/js/3.50f6f5eb.chunk.js.map",
-    "index.html": "/cityfinder/index.html",
-    "static/css/main.5832810e.chunk.css.map": "/cityfinder/static/css/main.5832810e.chunk.css.map",
-    "static/js/2.61fde5a1.chunk.js.LICENSE.txt": "/cityfinder/static/js/2.61fde5a1.chunk.js.LICENSE.txt"
+    "main.css": "/PinPointChallenge/static/css/main.5832810e.chunk.css",
+    "main.js": "/PinPointChallenge/static/js/main.a570e09c.chunk.js",
+    "main.js.map": "/PinPointChallenge/static/js/main.a570e09c.chunk.js.map",
+    "runtime-main.js": "/PinPointChallenge/static/js/runtime-main.097c2f4e.js",
+    "runtime-main.js.map": "/PinPointChallenge/static/js/runtime-main.097c2f4e.js.map",
+    "static/js/2.403dfe14.chunk.js": "/PinPointChallenge/static/js/2.403dfe14.chunk.js",
+    "static/js/2.403dfe14.chunk.js.map": "/PinPointChallenge/static/js/2.403dfe14.chunk.js.map",
+    "static/js/3.f9594a3a.chunk.js": "/PinPointChallenge/static/js/3.f9594a3a.chunk.js",
+    "static/js/3.f9594a3a.chunk.js.map": "/PinPointChallenge/static/js/3.f9594a3a.chunk.js.map",
+    "index.html": "/PinPointChallenge/index.html",
+    "static/css/main.5832810e.chunk.css.map": "/PinPointChallenge/static/css/main.5832810e.chunk.css.map",
+    "static/js/2.403dfe14.chunk.js.LICENSE.txt": "/PinPointChallenge/static/js/2.403dfe14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82a935f9.js",
-    "static/js/2.61fde5a1.chunk.js",
+    "static/js/runtime-main.097c2f4e.js",
+    "static/js/2.403dfe14.chunk.js",
     "static/css/main.5832810e.chunk.css",
-    "static/js/main.a542f4b2.chunk.js"
+    "static/js/main.a570e09c.chunk.js"
   ]
 }
