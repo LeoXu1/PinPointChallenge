@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cityfinder/static/css/main.5832810e.chunk.css",
-    "main.js": "/cityfinder/static/js/main.43c6801e.chunk.js",
-    "main.js.map": "/cityfinder/static/js/main.43c6801e.chunk.js.map",
+    "main.js": "/cityfinder/static/js/main.fb6f2877.chunk.js",
+    "main.js.map": "/cityfinder/static/js/main.fb6f2877.chunk.js.map",
     "runtime-main.js": "/cityfinder/static/js/runtime-main.82a935f9.js",
     "runtime-main.js.map": "/cityfinder/static/js/runtime-main.82a935f9.js.map",
     "static/js/2.61fde5a1.chunk.js": "/cityfinder/static/js/2.61fde5a1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.82a935f9.js",
     "static/js/2.61fde5a1.chunk.js",
     "static/css/main.5832810e.chunk.css",
-    "static/js/main.43c6801e.chunk.js"
+    "static/js/main.fb6f2877.chunk.js"
   ]
 }
