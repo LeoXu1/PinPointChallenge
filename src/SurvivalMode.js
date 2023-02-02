@@ -1,5 +1,4 @@
 import React from "react";
-import ReactTooltip from "react-tooltip";
 import { Link } from "react-router-dom";
 
 import "./App.css";
@@ -269,7 +268,6 @@ export default class SurvivalMode extends React.Component {
         )}
         <div className="map">
           <MapChart mode={this.state.level.map} setGuessLoc={this.setGuessLoc} showCity={this.state.showCity} curCityLoc={this.state.curCityLoc} guessLoc={this.state.guessLoc} setTooltipContent={this.setContent} />
-          <ReactTooltip>{this.state.content}</ReactTooltip>
         </div>
       </div>
     );
