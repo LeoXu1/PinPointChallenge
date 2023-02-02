@@ -1,6 +1,6 @@
 {
-  "homepage": "http://leoxu1.github.io/PinPointChallenge",
-  "name": "pinpointchallenge",
+  "homepage": "http://leoxu1.github.io/cityfinder",
+  "name": "cityfinder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

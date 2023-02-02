@@ -17,9 +17,9 @@ export default function App() {
       <div>
         <Header />
         <Switch>
-          <Route exact path="/PinPointChallenge" component={Home} />
-          <Route exact path="/PinPointChallenge/survival" component={SurvivalMode} />
-          <Route path="/PinPointChallenge/standard" component={StandardMode} />
+          <Route exact path="/cityfinder" component={Home} />
+          <Route exact path="/cityfinder/survival" component={SurvivalMode} />
+          <Route path="/cityfinder/standard" component={StandardMode} />
         </Switch>
       </div>
     </Router>
