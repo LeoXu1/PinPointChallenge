@@ -6,7 +6,7 @@ import "./Home.css"
 export default function Home() {
   return (
     <div className="main">
-      <Link style={{textDecoration: 'none'}} to="/cityfinder/standard">
+      <Link style={{textDecoration: 'none'}} to="/PinPointChallenge/standard">
         <div className="card">
           <div className="infobox">
             <h4><b>Standard Mode</b></h4>
@@ -14,7 +14,7 @@ export default function Home() {
           </div>
         </div>
       </Link>
-      <Link style={{textDecoration: 'none'}} to="/cityfinder/survival">
+      <Link style={{textDecoration: 'none'}} to="/PinPointChallenge/survival">
         <div className="card">
           <div className="infobox">
             <h4><b>Survival Mode</b></h4>

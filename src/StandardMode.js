@@ -156,7 +156,7 @@ export default class StandardMode extends React.Component {
           </div>
         ) : (
           <div className="container">
-            <Link style={{ textDecoration: 'none' }} to="/cityfinder">
+            <Link style={{ textDecoration: 'none' }} to="/PinPointChallenge">
               <button>Back</button>
             </Link>
             <h1>Standard Mode</h1>
